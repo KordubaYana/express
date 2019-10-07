@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.pokemonList {
+  width: 50%;
+}
+
+.inFoPokemon {
+  width: 50%;
+}

@@ -1,0 +1,62 @@
+{
+  "bulbasaur": [
+    {
+      "user": "Yana",
+      "comment": "Good",
+      "date": "07.10.2019 18:45:13",
+      "id": 0
+    },
+    {
+      "user": "Vanya",
+      "comment": "Best",
+      "date": "07.10.2019 18:45:23",
+      "id": 1
+    },
+    {
+      "user": "Yana",
+      "comment": "Amazing",
+      "date": "07.10.2019 18:48:47",
+      "id": 2
+    }
+  ],
+  "squirtle": [
+    {
+      "user": "Yana",
+      "comment": "Amazing",
+      "date": "07.10.2019 18:48:54",
+      "id": 0
+    },
+    {
+      "user": "Yana",
+      "comment": "Amazing",
+      "date": "07.10.2019 18:48:58",
+      "id": 1
+    }
+  ],
+  "pidgeotto": [
+    {
+      "user": "Yana",
+      "comment": "Amazing",
+      "date": "07.10.2019 18:49:06",
+      "id": 0
+    },
+    {
+      "user": "Yana",
+      "comment": "Amazing",
+      "date": "07.10.2019 18:49:13",
+      "id": 1
+    },
+    {
+      "user": "Yana",
+      "comment": "Amazing",
+      "date": "07.10.2019 18:49:13",
+      "id": 2
+    },
+    {
+      "user": "Yana",
+      "comment": "Amazing",
+      "date": "07.10.2019 18:49:14",
+      "id": 3
+    }
+  ]
+}
